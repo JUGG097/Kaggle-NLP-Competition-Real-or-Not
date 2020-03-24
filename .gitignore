@@ -1,7 +1,5 @@
 /FILE_PATH.txt
 /.ipynb_checkpoints/
 /catboost_info/
-notebook/.ipynb_checkpoints/
-notebook/catboost_info/catboost_training.json
-notebook/catboost_info/learn/events.out.tfevents
-notebook/catboost_info/time_left.tsv
+/notebook/.ipynb_checkpoints/
+/notebook/catboost_info/
