@@ -11,7 +11,7 @@ This repository will be an insigthful one for does who want to dabble into the N
 2) NULL MODEL:This notebook creates a predictive model using a DUMMY CLASSIFIER which predicted the most frequent occurence of the TARGET column. This NULL MODEL will be a basis to measure our other predictive models against.
 3) MODEL-LOCATION-KEYWORDS: This notebook uses the "location" and "keyword" columns alone to create a predictive model comparing it to the NULL MODEL.
 4) MODEL-TEXT: This notebook uses the "text" column alone to create a predictive model, here NLP Packages, Libraries and Modules like "CountVectorizer" and "TfidfVectorizer" were used.
-5) MODEL-FEATURE-ENGINEERING: This notebook combines engineered features (i.e features not initailly in the dataset) with the "text" column to create a predictive model, here Python Packages, Libraries and Modules like "make_pipeline", "make_union", "Pipeline" and "FeatureUnion" were used.
+5) MODEL-FEATURE-ENGINEERING: This notebook combines engineered features (i.e features not initailly in the dataset) with the "text" column to create a predictive model, here Python Packages, Libraries and Modules like "make_pipeline", "make_union", "Pipeline", "FunctionTransformer" and "FeatureUnion" were used.
 
 ## CONCLUSION:
 
